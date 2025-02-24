@@ -1,2 +1,2 @@
 # GitLearningDemo
-<center><h1>learning about all git commands</h1></center>
+<center><h3>learning about all git commands</h3></center>
